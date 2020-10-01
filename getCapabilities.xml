@@ -269,6 +269,26 @@
 				<Layers>GH:vulnerabilidade</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:openstreetmap</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:openstreetmap</Layers>
+				<Styles></Styles>
+			</TileSet>
 			<CustomLayer>
 				<Name>GH:hospitais_4326</Name>
 				<Title>hospitais_4326</Title>
@@ -317,11 +337,11 @@
 				<Title>cniv</Title>
 				<Abstract>GH:cniv ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/cniv.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.084892310992791" miny="38.01255862881291" maxx="-6.9856910111402435" maxy="38.11355881411468"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92051.80372391638" miny="-183183.5746385421" maxx="100627.75455692926" maxy="-172072.03912144236"></BoundingBox>
+				<LatLonBoundingBox minx="-7.084892310992791" miny="38.01255862881291" maxx="-6.985691011140243" maxy="38.11355881411468"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92051.8037239164" miny="-183183.574638542" maxx="100627.754556929" maxy="-172072.039121442"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -337,11 +357,11 @@
 				<Title>rios</Title>
 				<Abstract>GH:rios ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/rios.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.053318958501598" miny="38.04137777815468" maxx="-6.988955954937112" maxy="38.083864756886186"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="94787.83179999981" miny="-179987.12560000084" maxx="100381.60457582014" maxy="-175337.21749999933"></BoundingBox>
+				<LatLonBoundingBox minx="-7.053318958501599" miny="38.04137777815468" maxx="-6.988955954937112" maxy="38.0838647568862"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="94787.8317999998" miny="-179987.125600001" maxx="100381.60457582" maxy="-175337.217499999"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -357,11 +377,11 @@
 				<Title>cos2007_contenda</Title>
 				<Abstract>GH:cos2007_contenda ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/cos2007_contenda.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.084899620546616" miny="38.012547061299806" maxx="-6.985551963454312" maxy="38.11358198117613"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92051.17449951204" miny="-183184.7089990376" maxx="100639.91949462873" maxy="-172069.47429239168"></BoundingBox>
+				<LatLonBoundingBox minx="-7.084899620546617" miny="38.01254706129979" maxx="-6.9855519634543075" maxy="38.11358198117613"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92051.174499512" miny="-183184.708999038" maxx="100639.919494629" maxy="-172069.474292392"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -377,11 +397,11 @@
 				<Title>solos_etrs89_contenda</Title>
 				<Abstract>GH:solos_etrs89_contenda ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/solos_etrs89_contenda.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.083748242064677" miny="38.01345799244003" maxx="-6.986706092934195" maxy="38.11267104439708"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92151.17449952866" miny="-183084.80969239434" maxx="100539.91949465533" maxy="-172169.47259522846"></BoundingBox>
+				<LatLonBoundingBox minx="-7.083748242064676" miny="38.01345799244003" maxx="-6.986706092934199" maxy="38.11267104439708"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92151.1744995287" miny="-183084.809692394" maxx="100539.919494655" maxy="-172169.472595228"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -397,11 +417,11 @@
 				<Title>dem</Title>
 				<Abstract>GH:dem ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/dem.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.083744496265099" miny="38.013460606772355" maxx="-6.986688782504821" maxy="38.11262572633941"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92151.5" miny="-183084.5" maxx="100541.5" maxy="-172174.5"></BoundingBox>
+				<LatLonBoundingBox minx="-7.0837419275135876" miny="38.013642973178854" maxx="-6.986916789437291" maxy="38.11262572633941"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92151.5" miny="-183064.5" maxx="100521.5" maxy="-172174.5"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -417,11 +437,11 @@
 				<Title>slope_percentage</Title>
 				<Abstract>GH:slope_percentage ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/slope_percentage.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.083748242060286" miny="38.013457992370924" maxx="-6.986706092873939" maxy="38.112671044354045"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92151.1745" miny="-183084.8097" maxx="100539.9195" maxy="-172169.4726"></BoundingBox>
+				<LatLonBoundingBox minx="-7.083748242060286" miny="38.01346020897789" maxx="-6.986934065843158" maxy="38.112671044354045"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92151.1745" miny="-183084.8097" maxx="100519.92249165673" maxy="-172169.4726"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -437,11 +457,11 @@
 				<Title>vulnerabilidade</Title>
 				<Abstract>GH:vulnerabilidade ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/vulnerabilidade.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-7.083748241328199" miny="38.01346357780959" maxx="-6.9872760461771515" maxy="38.112626280170254"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="92151.1745" miny="-183084.804" maxx="100489.9865" maxy="-172174.4422"></BoundingBox>
+				<LatLonBoundingBox minx="-7.083741828034686" miny="38.01391887942854" maxx="-6.987845299965792" maxy="38.112626280170254"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="92151.1745" miny="-183034.87099405035" maxx="100440.05349401198" maxy="-172174.4422"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -449,6 +469,26 @@
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
 						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=vulnerabilidade"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:openstreetmap</Name>
+				<Title>openstreetmap</Title>
+				<Abstract>GH:openstreetmap ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-180.0" miny="-85.0511287798066" maxx="179.99999999999997" maxy="85.05112877980659"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-20037508.342789244" miny="-20037508.342789255" maxx="20037508.342789244" maxy="20037508.342789244"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=openstreetmap"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
