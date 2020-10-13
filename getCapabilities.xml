@@ -577,7 +577,7 @@
 				<Title>contour_lines</Title>
 				<Abstract>GH:contour_lines ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/contour_lines.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/contour_lines.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.084892310992791" miny="38.01255862881291" maxx="-6.9856910111402435" maxy="38.11355881411468"></LatLonBoundingBox>
@@ -597,7 +597,7 @@
 				<Title>cos2007</Title>
 				<Abstract>GH:cos2007 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/cos2007.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/cos2007.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.084899620546616" miny="38.012547061299806" maxx="-6.985551963454312" maxy="38.11358198117613"></LatLonBoundingBox>
@@ -617,7 +617,7 @@
 				<Title>rivers</Title>
 				<Abstract>GH:rivers ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/rivers.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/rivers.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.083535629137959" miny="38.02631921128112" maxx="-6.988441492245691" maxy="38.112649427203024"></LatLonBoundingBox>
@@ -637,7 +637,7 @@
 				<Title>soils</Title>
 				<Abstract>GH:soils ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/soils.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/soils.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.083748242064677" miny="38.01345799244003" maxx="-6.986706092934195" maxy="38.11267104439708"></LatLonBoundingBox>
@@ -657,7 +657,7 @@
 				<Title>dem_10m</Title>
 				<Abstract>GH:dem_10m ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.083744496265099" miny="38.013460606772355" maxx="-6.986688782504821" maxy="38.11262572633941"></LatLonBoundingBox>
@@ -677,7 +677,7 @@
 				<Title>slope_percentage</Title>
 				<Abstract>GH:slope_percentage ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/slope_percentage.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/catqueiros/Mappia_Example/releases/download/Map_Download/slope_percentage.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.083748242064953" miny="38.01345799244354" maxx="-6.986706092930235" maxy="38.11267104439915"></LatLonBoundingBox>
